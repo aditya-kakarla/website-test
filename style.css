@@ -9,3 +9,8 @@ h1 {
   position: relative;
   top: 50px;
 }
+
+p {
+  position:relative;
+  left: 20px;
+}
