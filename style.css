@@ -2,3 +2,8 @@ head, body {
   background-color: #FOF8FF;
   color: #191970;
 }
+
+h1 {
+  text-align: center;
+  font-family: Helvetica;
+}
