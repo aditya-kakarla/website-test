@@ -1,9 +1,11 @@
 head, body {
   background-color: #FOF8FF;
   color: #191970;
+  font-family: Helvetica;
 }
 
 h1 {
   text-align: center;
-  font-family: Helvetica;
+  position: relative;
+  top: 50px;
 }
