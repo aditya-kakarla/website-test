@@ -26,8 +26,8 @@ button{
     padding: 10px 6.7px;
     margin: 0px;
     position: absolute;
-    top: 30%;
-    left: 50%;
+    top: 70%;
+    left: 50;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     color: whitesmoke;
